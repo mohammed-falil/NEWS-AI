@@ -7,5 +7,5 @@ Using Multinomial Naive Bayes theorem the program will automatically scap news f
                 4.Entertainment News
                 
 Summarization of the news is also attached with it.
-The training of the model is done using the bbc.rar(extract it ) .
-Enter the extracted path of the bbc.rar into the path and run it.
+The training of the model is done using the bbc-fulltext.rar(extract it ) .
+Enter the extracted path of the bbc-fulltext.rar into the path and run it.
